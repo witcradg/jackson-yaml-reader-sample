@@ -1,0 +1,20 @@
+---
+name: John Jonz
+description: Protagonist
+birthdate: 1990-07-14
+targets:
+  - Angela Rodgers
+  - Rodger Rodgers
+---
+name: Angela Rodgers
+description: Daughter of Roger Rodgers
+birthdate: 2015-12-09
+targets:
+  -
+---
+name: Rodger Rodgers
+description: Father of Angela Rodgers
+birthdate: 1988-03-05
+targets:
+  -
+  
